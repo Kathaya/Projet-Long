@@ -6,7 +6,7 @@ Ce logiciel vise à aider à la construction de modèle via I-TASSER de modèle 
 
 ### HH-blits
 
-La version de hh-blits utilisé est installer par l'environnement conda
+La version de hh-blits utilisé est installer par l'environnement conda.
 Téléchargement de la base de donnée PDB70à l'adresse [http://wwwuser.gwdg.de/~compbiol/data/hhsuite/databases/hhsuite_dbs/](http://wwwuser.gwdg.de/~compbiol/data/hhsuite/databases/hhsuite_dbs/)
 
 ### Conda
